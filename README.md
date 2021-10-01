@@ -8,4 +8,7 @@ The algorithm is as follows:
 5) Give appropriate alert messages for other possible contour areas also.
 
 This is the output for your reference. Cheers!
+
+
+
 ![Output as gif](https://user-images.githubusercontent.com/70104287/135690365-f62ade6c-d091-4371-8971-0bca6ed1f21f.gif)
